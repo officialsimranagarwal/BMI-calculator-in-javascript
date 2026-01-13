@@ -1,44 +1,42 @@
-# BMI Calculator JS ⚖️
+# BMI Calculator in JavaScript ⚖️
 
-A simple, interactive **web-based application** to calculate Body Mass Index (BMI) using JavaScript. It provides instant feedback on your health category based on the calculated BMI.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Functional-success?style=for-the-badge)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 📖 Overview
+
+A simple, interactive **Body Mass Index (BMI) Calculator** built using vanilla JavaScript and HTML. This application allows users to input their weight and height to instantly calculate their BMI and see their health category.
 
 ## ✨ Features
 
-- **Instant Calculation**: Computes BMI immediately upon user input.
-- **Input Validation**: Ensures valid numeric inputs for height and weight.
-- **Health Categorization**: Classifies results into Underweight, Normal, and Overweight.
-- **Clean UI**: Minimalist interface for ease of use.
+-   **Instant Calculation**: Real-time BMI computation.
+-   **Health Categorization**: Tells you if you are Underweight, Normal, Overweight, or Obese based on standard BMI ranges.
+-   **Clean UI**: Minimalist design.
 
 ## 🚀 Getting Started
 
-### Prerequisites
+To run this project locally:
 
-- A modern web browser (Chrome, Firefox, Safari, Edge).
-
-### Installation & Usage
-
-1.  **Clone the repository**:
+1.  Clone the repository:
     ```bash
     git clone https://github.com/officialsimranagarwal/BMI-calculator-in-javascript.git
+    ```
+2.  Navigate to the directory:
+    ```bash
     cd BMI-calculator-in-javascript
     ```
-
-2.  **Run the application**:
-    - Simply open the `index.html` file in your browser.
-
-## 🛠️ Tech Stack
-
-- **HTML5**: Structure of the page.
-- **CSS3**: Styling and layout.
-- **JavaScript**: Calculation logic and DOM manipulation.
+3.  Open `index.html` in your web browser.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to propose changes.
 
-## 📄 License
+## 👤 Author
 
-This project is open source and available under the [MIT License](LICENSE).
+**Simran Agarwal**
+-   [Profile](https://github.com/officialsimranagarwal)
+-   [LinkedIn](https://linkedin.com/in/simran-agarwal-54751b191)
+
+---
+*Generated with ❤️ by Simran Agarwal*
